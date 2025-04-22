@@ -1,7 +1,5 @@
->Car Price Prediction Project
-![Car Price Prediction](img/webapp.png) 
 
-This project is an end-to-end machine learning pipeline for predicting car prices based on various vehicle features. It leverages a dataset containing information about car manufacturers, models, fuel types, and other characteristics to build a predictive model using Python. The project incorporates data preprocessing, exploratory data analysis (EDA), feature engineering, and model training. A Streamlit web application is also developed to provide a user-friendly interface for predicting car prices based on user inputs.
+#This project is an end-to-end machine learning pipeline for predicting car prices based on various vehicle features. It leverages a dataset containing information about car manufacturers, models, fuel types, and other characteristics to build a predictive model using Python. The project incorporates data preprocessing, exploratory data analysis (EDA), feature engineering, and model training. A Streamlit web application is also developed to provide a user-friendly interface for predicting car prices based on user inputs.
 ## Table of Contents
 
 - [Project Overview](#project-overview)
